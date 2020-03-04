@@ -1,12 +1,10 @@
 package sri;
 
-public class Ja {
+public class Jsa {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		System.out.println("safff");
-		System.out.println("safff");
-		System.out.println("asfbv");
+		System.out.println("sfafa");
 	}
 
 }
