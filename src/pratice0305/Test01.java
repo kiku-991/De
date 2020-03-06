@@ -20,6 +20,7 @@ public class Test01 {
 
 		//1-4
 		int x1 =13+17;
+	
 		System.out.println(x1);
 
 		//1-5
